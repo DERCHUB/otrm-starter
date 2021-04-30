@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/otrm-starter/static/js/main.b1228d5c.chunk.js",
-    "main.js.map": "/otrm-starter/static/js/main.b1228d5c.chunk.js.map",
+    "main.js": "/otrm-starter/static/js/main.583564a8.chunk.js",
+    "main.js.map": "/otrm-starter/static/js/main.583564a8.chunk.js.map",
     "runtime-main.js": "/otrm-starter/static/js/runtime-main.1d24eb91.js",
     "runtime-main.js.map": "/otrm-starter/static/js/runtime-main.1d24eb91.js.map",
-    "static/js/2.8e6e0d92.chunk.js": "/otrm-starter/static/js/2.8e6e0d92.chunk.js",
-    "static/js/2.8e6e0d92.chunk.js.map": "/otrm-starter/static/js/2.8e6e0d92.chunk.js.map",
+    "static/js/2.f7a8014e.chunk.js": "/otrm-starter/static/js/2.f7a8014e.chunk.js",
+    "static/js/2.f7a8014e.chunk.js.map": "/otrm-starter/static/js/2.f7a8014e.chunk.js.map",
     "index.html": "/otrm-starter/index.html",
-    "static/js/2.8e6e0d92.chunk.js.LICENSE.txt": "/otrm-starter/static/js/2.8e6e0d92.chunk.js.LICENSE.txt",
+    "static/js/2.f7a8014e.chunk.js.LICENSE.txt": "/otrm-starter/static/js/2.f7a8014e.chunk.js.LICENSE.txt",
     "static/media/example.6e37475d.md": "/otrm-starter/static/media/example.6e37475d.md",
     "static/media/history.0dbbfe8c.md": "/otrm-starter/static/media/history.0dbbfe8c.md",
     "static/media/otrm-white.9baedf2d.svg": "/otrm-starter/static/media/otrm-white.9baedf2d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1d24eb91.js",
-    "static/js/2.8e6e0d92.chunk.js",
-    "static/js/main.b1228d5c.chunk.js"
+    "static/js/2.f7a8014e.chunk.js",
+    "static/js/main.583564a8.chunk.js"
   ]
 }
